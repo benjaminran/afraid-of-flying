@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Afraid of Flying</string>
+    <string name="starter_top_text">I\'m so afraid of flying that\nif you throw me in the air,</string>
+    <string name="starter_bottom_text">I might scream!</string>
+    <string name="rate_us">Rate the app</string>
+    <string name="instructions">Instructions</string>
+    <string name="face_description">A face showing expressions in reaction to being thrown</string>
+    <string name="accept">Accept</string>
+	<string name="eula">
+By installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be bounded by the terms of this EULA.\n
+If you do not agree to the terms of this EULA, do not install or use the SOFTWARE PRODUCT.\n\n
+NO WARRANTIES.\n
+The Author of this Software expressly disclaims any warranty for the SOFTWARE PRODUCT. The SOFTWARE PRODUCT and any related documentation is provided “as is” without warranty of any kind, either express or implied, including, without limitation, the implied warranties or merchantability, fitness for a particular purpose, or noninfringement. The entire risk arising out of use or performance of the SOFTWARE PRODUCT remains with you.\n\n
+NO LIABILITY FOR DAMAGES.\n
+In no event shall the author of this Software be liable for any special, consequential, incidental or indirect damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or any other pecuniary loss) arising out of the use of or inability to use this product, even if the Author of this Software is aware of the possibility of such damages and known defects.</string>
+    
+    <string name="text1">Did I mention I don\'t like flying?</string>
+    <string name="text2">I don\'t feel too good&#8230;</string>
+    <string name="text3">Eeep.</string>
+    <string name="text4">Holy cow!</string>
+    <string name="text5">I definitely don\'t like heights&#8230;</string>
+    <string name="text6">I think I\'m gonna be sick.</string>
+    <string name="text7">Ugh.</string>
+    <string name="text8">Ack.</string>
+    <string name="text9">POTATOES AND CREAM CHEESE!</string>
+    <string name="text10">This is why I call myself a down-to-earth kind of guy.</string>
+    <string name="text11">Make it stop!</string>
+    <string name="text12">Oy vey.</string>
+    <string name="text13">Mama mia.</string>
+    <string name="text14">Yeesh!</string>
+    <string name="text15">I\'m getting too old for this</string>
+    <string name="text16">Et tu, Brute?</string>
+    <string name="text17">Mommy!</string>
+    <string name="text18">&#8230;</string>
+    <string name="text19">My life just flashed before my eyes&#8230; That was boring.</string>
+    <string name="text20">Free as a bird; It\'s not the next best thing to be.</string>
+    <string name="text21">Bleh!</string>
+    <string name="text22">Oh my goodness&#8230;</string>
+    <string name="text23">Shmerg</string>
+    <string name="text24">Make it stop!</string>
+    <string name="text25">Eek.</string>
+    <string name="text26">Meep</string>
+    <string name="text27">Breathe in, breathe out. Breathe in, breathe out&#8230;</string>
+    <string name="text28">Ick.</string>
+    <string name="text29">Hey, I can see my house from up there!</string>
+    <string name="text30">Anything but this.</string>
+    <string name="text31">Don\'t throw me, I can tap dance!</string>
+    <string name="text32">This isn\'t so bad&#8230;</string>
+    <string name="text33">This is so bad.</string>
+    <string name="text34">I should be getting some frequent flyer miles for this!</string>
+    <string name="text35">Holy sow!</string>
+    <string name="text36">asdlfkj!@#$%^!</string>
+    <string name="text37">This is fun&#8230; NOT!</string>
+    <string name="text38">This is definitely NOT fun.</string>
+    <string name="text39">Jinkies!</string>
+    <string name="text40">Yikes!</string>
+    <string name="text41">Yipes!</string>
+    <string name="text42">Did I mention how nice your hair looks today?</string>
+    <string name="text43">Aaaaah!</string>
+    <string name="text44">Oof!</string>
+    <string name="text45">Help! Help! Help!</string>
+    <string name="text46">*Gulp*</string>
+    <string name="text47">I intend to write a strongly worder letter to&#8230; to someone!</string>
+    <string name="text48">Good thing I wore my brown pants today</string>
+    <string name="text49">Does this make me an Eagle scout?</string>
+    <string name="text50">Does my face look green to you?</string>
+</resources>
